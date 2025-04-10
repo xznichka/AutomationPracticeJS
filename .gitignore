@@ -134,3 +134,19 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Игнорирование node_modules (зависимости проекта)
+node_modules/
+
+# Игнорирование папок с результатами тестов Cypress
+cypress/screenshots/
+cypress/videos/
+
+# Игнорирование скомпилированных файлов и папок
+dist/
+
+# Игнорирование переменных окружения (например, .env)
+.env
+
+# Игнорирование системных файлов macOS
+.DS_Store
