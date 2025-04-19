@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/xznichka/AutomationPracticeJS#readme",
   "devDependencies": {
-    "cypress": "^14.3.0"
+    "cypress": "^14.3.0",
+    "prettier": "^3.5.3"
+  },
+  "scripts": {
+    "format": "prettier --write ."
   }
 }

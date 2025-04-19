@@ -1,0 +1,52 @@
+{
+  "login": {
+    "usernamePlaceholder": "Username",
+    "passwordPlaceholder": "Password",
+    "loginButton": "Login",
+    "lockedOutError": "Epic sadface: Sorry, this user has been locked out.",
+    "usernameRequiredError": "Epic sadface: Username is required",
+    "passwordRequiredError": "Epic sadface: Password is required"
+  },
+  "inventory": {
+    "addToCartButton": "Add to cart",
+    "removeButton": "Remove",
+    "productsTitle": "Products",
+    "noItemsError": "Epic sadface: You have no items in your cart."
+  },
+  "cart": {
+    "checkoutButton": "CHECKOUT",
+    "continueShoppingButton": "CONTINUE SHOPPING",
+    "cartTitle": "Your Cart",
+    "quantityLabel": "QTY",
+    "descriptionLabel": "DESCRIPTION"
+  },
+  "checkoutStepOne": {
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "postalCodePlaceholder": "Zip/Postal Code",
+    "continueButton": "CONTINUE",
+    "cancelButton": "CANCEL",
+    "firstNameRequiredError": "Error: First Name is required",
+    "lastNameRequiredError": "Error: Last Name is required",
+    "postalCodeRequiredError": "Error: Postal Code is required"
+  },
+  "checkoutStepTwo": {
+    "summaryTitle": "Checkout: Overview",
+    "itemTotalLabel": "Item total:",
+    "taxLabel": "Tax:",
+    "totalLabel": "Total:",
+    "finishButton": "FINISH",
+    "cancelButton": "CANCEL"
+  },
+  "checkoutComplete": {
+    "thankYouMessage": "THANK YOU FOR YOUR ORDER",
+    "orderDispatchedMessage": "Your order has been dispatched, and will arrive just as fast as the pony can get there!",
+    "backHomeButton": "BACK HOME"
+  },
+  "common": {
+    "menuButton": "Open Menu",
+    "logoutLink": "Logout",
+    "closeMenuButton": "Close Menu",
+    "footerText": "© 2023 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy"
+  }
+}
